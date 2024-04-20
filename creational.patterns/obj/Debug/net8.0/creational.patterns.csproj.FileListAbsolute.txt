@@ -1,0 +1,14 @@
+C:\Users\salla\Documents\c#\design_patterns\creational.patterns\creational.patterns\bin\Debug\net8.0\creational.patterns.exe
+C:\Users\salla\Documents\c#\design_patterns\creational.patterns\creational.patterns\bin\Debug\net8.0\creational.patterns.deps.json
+C:\Users\salla\Documents\c#\design_patterns\creational.patterns\creational.patterns\bin\Debug\net8.0\creational.patterns.runtimeconfig.json
+C:\Users\salla\Documents\c#\design_patterns\creational.patterns\creational.patterns\bin\Debug\net8.0\creational.patterns.dll
+C:\Users\salla\Documents\c#\design_patterns\creational.patterns\creational.patterns\bin\Debug\net8.0\creational.patterns.pdb
+C:\Users\salla\Documents\c#\design_patterns\creational.patterns\creational.patterns\obj\Debug\net8.0\creational.patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\design_patterns\creational.patterns\creational.patterns\obj\Debug\net8.0\creational.patterns.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\design_patterns\creational.patterns\creational.patterns\obj\Debug\net8.0\creational.patterns.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\design_patterns\creational.patterns\creational.patterns\obj\Debug\net8.0\creational.patterns.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\design_patterns\creational.patterns\creational.patterns\obj\Debug\net8.0\creational.patterns.dll
+C:\Users\salla\Documents\c#\design_patterns\creational.patterns\creational.patterns\obj\Debug\net8.0\refint\creational.patterns.dll
+C:\Users\salla\Documents\c#\design_patterns\creational.patterns\creational.patterns\obj\Debug\net8.0\creational.patterns.pdb
+C:\Users\salla\Documents\c#\design_patterns\creational.patterns\creational.patterns\obj\Debug\net8.0\creational.patterns.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\design_patterns\creational.patterns\creational.patterns\obj\Debug\net8.0\ref\creational.patterns.dll
